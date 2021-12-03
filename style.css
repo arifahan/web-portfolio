@@ -28,3 +28,16 @@ h1 {
 section{
     height: 500px;
 }
+.link-button{
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+.bellow-top-banner{
+    background-image: url("images/service-bg.png");
+    background-repeat: no-repeat;
+}
